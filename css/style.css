@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#begin {
+    border: 1px solid #EFEFEF;
+    background: goldenrod;
+}
+
+canvas {
+    display: block;
+    margin: 10px auto;
+    box-shadow: -2px -2px 2px #EFEFEF, 5px 5px 5px #B9B9B9;
+    background: url(../image/imooc.jpg);
+}
